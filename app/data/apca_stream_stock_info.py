@@ -1,0 +1,1 @@
+# TODO: Websocket for market data only available for funded accounts :( - to be implemented in the future

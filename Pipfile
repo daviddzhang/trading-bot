@@ -9,6 +9,8 @@ verify_ssl = true
 websockets = "*"
 alpaca-trade-api = "*"
 python-dotenv = "*"
+pypubsub = "*"
+schedule = "*"
 
 [requires]
 python_version = "3.8"
